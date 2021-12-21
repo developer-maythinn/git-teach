@@ -1,0 +1,2 @@
+# git-teach
+For teaching
